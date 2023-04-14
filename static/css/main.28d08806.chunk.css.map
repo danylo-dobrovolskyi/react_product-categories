@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEA,KACE,wBAAsC,CACtC,YAAa,CACd,OAGC,YAAa","file":"main.28d08806.chunk.css","sourcesContent":["$color: yellow;\n\nbody {\n  background-color: lightgoldenrodyellow;\n  padding: 20px;\n}\n\niframe {\n  display: none;\n}\n"]}
